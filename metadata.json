@@ -1,0 +1,6 @@
+{
+  "name": "Flag Battle",
+  "description": "Epic country flag circle battle royale simulation where countries clash in an arena to be the last one standing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
